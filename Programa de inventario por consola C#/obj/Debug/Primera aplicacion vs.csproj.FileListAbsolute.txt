@@ -1,0 +1,16 @@
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\obj\Debug\Primera aplicacion vs.csproj.AssemblyReference.cache
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\obj\Debug\Primera aplicacion vs.csproj.SuggestedBindingRedirects.cache
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\obj\Debug\Primera aplicacion vs.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\bin\Debug\Primera aplicacion vs.exe.config
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\bin\Debug\Primera aplicacion vs.exe
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\bin\Debug\Primera aplicacion vs.pdb
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\obj\Debug\Primera aplicacion vs.exe
+C:\Users\José Antonio\source\repos\Primera aplicacion vs\obj\Debug\Primera aplicacion vs.pdb
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\bin\Debug\Primera aplicacion vs.exe.config
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\bin\Debug\Primera aplicacion vs.exe
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\bin\Debug\Primera aplicacion vs.pdb
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\obj\Debug\Primera aplicacion vs.csproj.AssemblyReference.cache
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\obj\Debug\Primera aplicacion vs.csproj.SuggestedBindingRedirects.cache
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\obj\Debug\Primera aplicacion vs.csproj.CoreCompileInputs.cache
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\obj\Debug\Primera aplicacion vs.exe
+C:\JoSoft\AppConsola\PrimeraAplicacion vs\obj\Debug\Primera aplicacion vs.pdb

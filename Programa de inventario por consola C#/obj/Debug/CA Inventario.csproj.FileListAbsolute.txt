@@ -1,0 +1,15 @@
+C:\JoSoft\AppConsola\CAInventario\bin\Debug\Primera aplicacion vs.exe.config
+C:\JoSoft\AppConsola\CAInventario\bin\Debug\Primera aplicacion vs.exe
+C:\JoSoft\AppConsola\CAInventario\bin\Debug\Primera aplicacion vs.pdb
+C:\JoSoft\AppConsola\CAInventario\obj\Debug\CA Inventario.csproj.AssemblyReference.cache
+C:\JoSoft\AppConsola\CAInventario\obj\Debug\CA Inventario.csproj.SuggestedBindingRedirects.cache
+C:\JoSoft\AppConsola\CAInventario\obj\Debug\CA Inventario.csproj.CoreCompileInputs.cache
+C:\JoSoft\AppConsola\CAInventario\obj\Debug\Primera aplicacion vs.exe
+C:\JoSoft\AppConsola\CAInventario\obj\Debug\Primera aplicacion vs.pdb
+C:\programacion II\primer parcial\CAInventario\bin\Debug\Primera aplicacion vs.exe.config
+C:\programacion II\primer parcial\CAInventario\bin\Debug\Primera aplicacion vs.exe
+C:\programacion II\primer parcial\CAInventario\bin\Debug\Primera aplicacion vs.pdb
+C:\programacion II\primer parcial\CAInventario\obj\Debug\CA Inventario.csproj.AssemblyReference.cache
+C:\programacion II\primer parcial\CAInventario\obj\Debug\CA Inventario.csproj.CoreCompileInputs.cache
+C:\programacion II\primer parcial\CAInventario\obj\Debug\Primera aplicacion vs.exe
+C:\programacion II\primer parcial\CAInventario\obj\Debug\Primera aplicacion vs.pdb

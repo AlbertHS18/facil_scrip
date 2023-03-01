@@ -1,0 +1,28 @@
+C:\programacion II\primer parcial\CAInventario\bin\Debug\Primera aplicacion vs.exe.config
+C:\programacion II\primer parcial\CAInventario\bin\Debug\Primera aplicacion vs.exe
+C:\programacion II\primer parcial\CAInventario\bin\Debug\Primera aplicacion vs.pdb
+C:\programacion II\primer parcial\CAInventario\obj\Debug\Primer Parcial.csproj.AssemblyReference.cache
+C:\programacion II\primer parcial\CAInventario\obj\Debug\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\programacion II\primer parcial\CAInventario\obj\Debug\Primera aplicacion vs.exe
+C:\programacion II\primer parcial\CAInventario\obj\Debug\Primera aplicacion vs.pdb
+C:\programacion II\primer parcial\Primer Parcial\bin\Debug\Primera aplicacion vs.exe.config
+C:\programacion II\primer parcial\Primer Parcial\bin\Debug\Primera aplicacion vs.exe
+C:\programacion II\primer parcial\Primer Parcial\bin\Debug\Primera aplicacion vs.pdb
+C:\programacion II\primer parcial\Primer Parcial\obj\Debug\Primer Parcial.csproj.AssemblyReference.cache
+C:\programacion II\primer parcial\Primer Parcial\obj\Debug\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\programacion II\primer parcial\Primer Parcial\obj\Debug\Primera aplicacion vs.exe
+C:\programacion II\primer parcial\Primer Parcial\obj\Debug\Primera aplicacion vs.pdb
+C:\Primer Parcial\bin\Debug\Primera aplicacion vs.exe.config
+C:\Primer Parcial\bin\Debug\Primera aplicacion vs.exe
+C:\Primer Parcial\bin\Debug\Primera aplicacion vs.pdb
+C:\Primer Parcial\obj\Debug\Primer Parcial.csproj.AssemblyReference.cache
+C:\Primer Parcial\obj\Debug\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Primer Parcial\obj\Debug\Primera aplicacion vs.exe
+C:\Primer Parcial\obj\Debug\Primera aplicacion vs.pdb
+C:\Users\Albert\Desktop\Clases\Semestre 9\Programacion II\Programa de inventario por consola C#\bin\Debug\Primera aplicacion vs.exe.config
+C:\Users\Albert\Desktop\Clases\Semestre 9\Programacion II\Programa de inventario por consola C#\bin\Debug\Primera aplicacion vs.exe
+C:\Users\Albert\Desktop\Clases\Semestre 9\Programacion II\Programa de inventario por consola C#\bin\Debug\Primera aplicacion vs.pdb
+C:\Users\Albert\Desktop\Clases\Semestre 9\Programacion II\Programa de inventario por consola C#\obj\Debug\Primer Parcial.csproj.AssemblyReference.cache
+C:\Users\Albert\Desktop\Clases\Semestre 9\Programacion II\Programa de inventario por consola C#\obj\Debug\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Desktop\Clases\Semestre 9\Programacion II\Programa de inventario por consola C#\obj\Debug\Primera aplicacion vs.exe
+C:\Users\Albert\Desktop\Clases\Semestre 9\Programacion II\Programa de inventario por consola C#\obj\Debug\Primera aplicacion vs.pdb
